@@ -11,7 +11,7 @@ A project maked up to final project for Javascript Advance super-guide.
 You can check the air pollution in your city with this app
 
 ### Screenshot
-![APP](https://i.ibb.co/kXN0LrK/Immagine.png)
+![APP](https://i.ibb.co/LJWFd66/Main.png)
 
 
 ## Technologies
